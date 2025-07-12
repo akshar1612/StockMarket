@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  Stalk-Market
-//
-//  Created by Thanushan Pirapakaran on 2024-05-27.
-//
+
 
 import SwiftUI
 import Combine
