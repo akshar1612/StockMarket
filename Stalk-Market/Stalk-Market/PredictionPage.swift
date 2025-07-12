@@ -1,9 +1,5 @@
 //
 //  PredictionPage.swift
-//  Stalk-Market
-//
-//  Created by Thanushan Pirapakaran on 2024-05-29.
-//
 
 import SwiftUI
 import Foundation
